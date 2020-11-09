@@ -1,0 +1,9 @@
+{
+    "name": "Newsletter",
+    "alias": "newsletter",
+    "description": "The HappyMobiles Newsletter Module.",
+    "order": 100,
+    "providers": [
+        "Modules\\Newsletter\\Providers\\NewsletterServiceProvider"
+    ]
+}

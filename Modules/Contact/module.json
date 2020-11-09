@@ -1,0 +1,6 @@
+{
+    "name": "Contact",
+    "alias": "contact",
+    "description": "The HappyMobiles Contact Module.",
+    "order": 100
+}

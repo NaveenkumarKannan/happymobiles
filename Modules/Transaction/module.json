@@ -1,0 +1,6 @@
+{
+    "name": "Transaction",
+    "alias": "transaction",
+    "description": "The HappyMobiles Transaction Module.",
+    "order": 100
+}
